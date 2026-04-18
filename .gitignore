@@ -1,0 +1,7 @@
+*.env
+.env.local
+.secrets/
+
+# Firebase
+.firebase/
+firebase-debug.log

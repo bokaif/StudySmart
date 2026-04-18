@@ -1,0 +1,26 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Secrets
+.secrets/
+firebase-admin*.json
+.env
+.env.local
+.env.production
+
+# Legacy local backups / migration leftovers (not used by runtime)
+forum_data.json
+chroma_db/materials_metadata.json
+storage/
+
+# Runtime uploads and full vector store (do not commit)
+uploads/
+chroma_db/
