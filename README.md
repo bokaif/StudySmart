@@ -229,3 +229,21 @@ Frontend runs at `http://localhost:3000`.
 
 > [!TIP]  
 > Keep a representative mix of theory slides/PDFs and lab code files in uploads. Retrieval quality improves significantly when both corpora are present.
+
+## 🎓 BUET CSE Fest 2026 Hackathon
+
+This project was built for **BUET CSE Fest 2026 Hackathon** to solve a real learning problem in university courses: scattered theory and lab content, weak searchability, and slow study-material creation. Goal: make course learning faster, grounded, and more usable for both students and teachers.
+
+### Impact
+
+- **Saves Time:** instant semantic search + grounded chat over uploaded course content
+- **Improves Learning Access:** structured notes/slides/PDF generation from same course corpus
+- **Enhances Lab Practice:** code-aware retrieval with `CodeSplitter` and structural parsing
+- **Scalable Design:** role-based workflow that can be reused across multiple courses
+
+
+## Team
+
+- [@bokaif](https://github.com/bokaif)
+- [@sinhasebur](https://github.com/sinhasebur)
+- [@Avraaaa](https://github.com/Avraaaa)
